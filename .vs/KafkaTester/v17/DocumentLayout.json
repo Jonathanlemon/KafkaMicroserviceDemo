@@ -1,0 +1,188 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lemon\\Desktop\\.NET\\KafkaTester\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74EFFF9B-DDAC-4D97-B2C0-BFA7F7F76C01}|KafkaTester\\KafkaTester.csproj|c:\\users\\lemon\\desktop\\.net\\kafkatester\\kafkatester\\controllers\\onboardingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74EFFF9B-DDAC-4D97-B2C0-BFA7F7F76C01}|KafkaTester\\KafkaTester.csproj|solutionrelative:kafkatester\\controllers\\onboardingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74EFFF9B-DDAC-4D97-B2C0-BFA7F7F76C01}|KafkaTester\\KafkaTester.csproj|c:\\users\\lemon\\desktop\\.net\\kafkatester\\kafkatester\\controllers\\validationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74EFFF9B-DDAC-4D97-B2C0-BFA7F7F76C01}|KafkaTester\\KafkaTester.csproj|solutionrelative:kafkatester\\controllers\\validationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74EFFF9B-DDAC-4D97-B2C0-BFA7F7F76C01}|KafkaTester\\KafkaTester.csproj|c:\\users\\lemon\\desktop\\.net\\kafkatester\\kafkatester\\services\\onboardingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74EFFF9B-DDAC-4D97-B2C0-BFA7F7F76C01}|KafkaTester\\KafkaTester.csproj|solutionrelative:kafkatester\\services\\onboardingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74EFFF9B-DDAC-4D97-B2C0-BFA7F7F76C01}|KafkaTester\\KafkaTester.csproj|c:\\users\\lemon\\desktop\\.net\\kafkatester\\kafkatester\\services\\validationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74EFFF9B-DDAC-4D97-B2C0-BFA7F7F76C01}|KafkaTester\\KafkaTester.csproj|solutionrelative:kafkatester\\services\\validationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74EFFF9B-DDAC-4D97-B2C0-BFA7F7F76C01}|KafkaTester\\KafkaTester.csproj|c:\\users\\lemon\\desktop\\.net\\kafkatester\\kafkatester\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74EFFF9B-DDAC-4D97-B2C0-BFA7F7F76C01}|KafkaTester\\KafkaTester.csproj|solutionrelative:kafkatester\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74EFFF9B-DDAC-4D97-B2C0-BFA7F7F76C01}|KafkaTester\\KafkaTester.csproj|c:\\users\\lemon\\desktop\\.net\\kafkatester\\kafkatester\\kafkatester.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{74EFFF9B-DDAC-4D97-B2C0-BFA7F7F76C01}|KafkaTester\\KafkaTester.csproj|solutionrelative:kafkatester\\kafkatester.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74EFFF9B-DDAC-4D97-B2C0-BFA7F7F76C01}|KafkaTester\\KafkaTester.csproj|c:\\users\\lemon\\desktop\\.net\\kafkatester\\kafkatester\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{74EFFF9B-DDAC-4D97-B2C0-BFA7F7F76C01}|KafkaTester\\KafkaTester.csproj|solutionrelative:kafkatester\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74EFFF9B-DDAC-4D97-B2C0-BFA7F7F76C01}|KafkaTester\\KafkaTester.csproj|c:\\users\\lemon\\desktop\\.net\\kafkatester\\kafkatester\\services\\ikafkaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74EFFF9B-DDAC-4D97-B2C0-BFA7F7F76C01}|KafkaTester\\KafkaTester.csproj|solutionrelative:kafkatester\\services\\ikafkaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74EFFF9B-DDAC-4D97-B2C0-BFA7F7F76C01}|KafkaTester\\KafkaTester.csproj|c:\\users\\lemon\\desktop\\.net\\kafkatester\\kafkatester\\kafkatester.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{74EFFF9B-DDAC-4D97-B2C0-BFA7F7F76C01}|KafkaTester\\KafkaTester.csproj|solutionrelative:kafkatester\\kafkatester.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74EFFF9B-DDAC-4D97-B2C0-BFA7F7F76C01}|KafkaTester\\KafkaTester.csproj|c:\\users\\lemon\\desktop\\.net\\kafkatester\\kafkatester\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{74EFFF9B-DDAC-4D97-B2C0-BFA7F7F76C01}|KafkaTester\\KafkaTester.csproj|solutionrelative:kafkatester\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OnboardingController.cs",
+              "DocumentMoniker": "C:\\Users\\lemon\\Desktop\\.NET\\KafkaTester\\KafkaTester\\Controllers\\OnboardingController.cs",
+              "RelativeDocumentMoniker": "KafkaTester\\Controllers\\OnboardingController.cs",
+              "ToolTip": "C:\\Users\\lemon\\Desktop\\.NET\\KafkaTester\\KafkaTester\\Controllers\\OnboardingController.cs",
+              "RelativeToolTip": "KafkaTester\\Controllers\\OnboardingController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwA8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T21:06:46.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IKafkaService.cs",
+              "DocumentMoniker": "C:\\Users\\lemon\\Desktop\\.NET\\KafkaTester\\KafkaTester\\Services\\IKafkaService.cs",
+              "RelativeDocumentMoniker": "KafkaTester\\Services\\IKafkaService.cs",
+              "ToolTip": "C:\\Users\\lemon\\Desktop\\.NET\\KafkaTester\\KafkaTester\\Services\\IKafkaService.cs",
+              "RelativeToolTip": "KafkaTester\\Services\\IKafkaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T20:55:18.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OnboardingService.cs",
+              "DocumentMoniker": "C:\\Users\\lemon\\Desktop\\.NET\\KafkaTester\\KafkaTester\\Services\\OnboardingService.cs",
+              "RelativeDocumentMoniker": "KafkaTester\\Services\\OnboardingService.cs",
+              "ToolTip": "C:\\Users\\lemon\\Desktop\\.NET\\KafkaTester\\KafkaTester\\Services\\OnboardingService.cs",
+              "RelativeToolTip": "KafkaTester\\Services\\OnboardingService.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAowB4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T20:55:11.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ValidationService.cs",
+              "DocumentMoniker": "C:\\Users\\lemon\\Desktop\\.NET\\KafkaTester\\KafkaTester\\Services\\ValidationService.cs",
+              "RelativeDocumentMoniker": "KafkaTester\\Services\\ValidationService.cs",
+              "ToolTip": "C:\\Users\\lemon\\Desktop\\.NET\\KafkaTester\\KafkaTester\\Services\\ValidationService.cs",
+              "RelativeToolTip": "KafkaTester\\Services\\ValidationService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T20:55:03.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ValidationController.cs",
+              "DocumentMoniker": "C:\\Users\\lemon\\Desktop\\.NET\\KafkaTester\\KafkaTester\\Controllers\\ValidationController.cs",
+              "RelativeDocumentMoniker": "KafkaTester\\Controllers\\ValidationController.cs",
+              "ToolTip": "C:\\Users\\lemon\\Desktop\\.NET\\KafkaTester\\KafkaTester\\Controllers\\ValidationController.cs",
+              "RelativeToolTip": "KafkaTester\\Controllers\\ValidationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T20:54:48.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "KafkaTester",
+              "DocumentMoniker": "C:\\Users\\lemon\\Desktop\\.NET\\KafkaTester\\KafkaTester\\KafkaTester.csproj",
+              "RelativeDocumentMoniker": "KafkaTester\\KafkaTester.csproj",
+              "ToolTip": "C:\\Users\\lemon\\Desktop\\.NET\\KafkaTester\\KafkaTester\\KafkaTester.csproj",
+              "RelativeToolTip": "KafkaTester\\KafkaTester.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-25T20:54:28.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\lemon\\Desktop\\.NET\\KafkaTester\\KafkaTester\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "KafkaTester\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\lemon\\Desktop\\.NET\\KafkaTester\\KafkaTester\\Properties\\launchSettings.json",
+              "RelativeToolTip": "KafkaTester\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-25T16:49:19.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "KafkaTester.http",
+              "DocumentMoniker": "C:\\Users\\lemon\\Desktop\\.NET\\KafkaTester\\KafkaTester\\KafkaTester.http",
+              "RelativeDocumentMoniker": "KafkaTester\\KafkaTester.http",
+              "ToolTip": "C:\\Users\\lemon\\Desktop\\.NET\\KafkaTester\\KafkaTester\\KafkaTester.http",
+              "RelativeToolTip": "KafkaTester\\KafkaTester.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-07-25T16:38:21.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\lemon\\Desktop\\.NET\\KafkaTester\\KafkaTester\\appsettings.json",
+              "RelativeDocumentMoniker": "KafkaTester\\appsettings.json",
+              "ToolTip": "C:\\Users\\lemon\\Desktop\\.NET\\KafkaTester\\KafkaTester\\appsettings.json",
+              "RelativeToolTip": "KafkaTester\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-25T16:38:12.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lemon\\Desktop\\.NET\\KafkaTester\\KafkaTester\\Program.cs",
+              "RelativeDocumentMoniker": "KafkaTester\\Program.cs",
+              "ToolTip": "C:\\Users\\lemon\\Desktop\\.NET\\KafkaTester\\KafkaTester\\Program.cs",
+              "RelativeToolTip": "KafkaTester\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T16:27:01.335Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
