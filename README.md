@@ -19,9 +19,7 @@ cd ~/kafka
 
 KAFKA_CLUSTER_ID="$(bin/kafka-storage.sh random-uuid)"
 
-bin/kafka-storage.sh format \
-  -t $KAFKA_CLUSTER_ID \
-  -c config/server.properties
+bin/kafka-storage.sh format -t $KAFKA_CLUSTER_ID -c config/server.properties
 
 bin/kafka-server-start.sh config/server.properties
 
@@ -30,20 +28,11 @@ To now test from CLI:
 
 bin/kafka-topics.sh --list --bootstrap-server localhost:9092
 
-bin/kafka-topics.sh --create \
-  --topic test-topic \
-  --partitions 1 \
-  --replication-factor 1 \
-  --bootstrap-server localhost:9092
+bin/kafka-topics.sh --create --topic test-topic --partitions 1 --replication-factor 1 --bootstrap-server localhost:9092
 
-bin/kafka-console-producer.sh \
-  --topic test-topic \
-  --bootstrap-server localhost:9092
+bin/kafka-console-producer.sh --topic test-topic --bootstrap-server localhost:9092
 
-bin/kafka-console-consumer.sh \
-  --topic test-topic \
-  --from-beginning \
-  --bootstrap-server localhost:9092
+bin/kafka-console-consumer.sh --topic test-topic --from-beginning --bootstrap-server localhost:9092
 
 ## Using the .Net
 Do dotnet run --launch-profile "http"
