@@ -3,6 +3,8 @@
 Ensure WSL 2 is installed, with latest apt-get update and upgrades done
 Java JDK 17 or higher installed
 
+Download Kafka binary from the official site, and extract
+
 Kafka setup steps:
 For KRaft mode (latest versions, zookeeper outdated now), ensure this line exists in server.properties: 
 controller.quorum.voters=1@127.0.0.1:9093
