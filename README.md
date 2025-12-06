@@ -15,6 +15,9 @@ advertised.listeners=PLAINTEXT://localhost:9092
 
 Then, run the following:
 
+sudo sysctl -w net.ipv6.conf.all.disable_ipv6=1
+sudo sysctl -w net.ipv6.conf.default.disable_ipv6=1
+
 cd ~/kafka
 
 KAFKA_CLUSTER_ID="$(bin/kafka-storage.sh random-uuid)"
